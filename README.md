@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zhuboluchuan
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Game Development
-- 💞️ I’m looking to collaborate on Indie Game Development
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me ...
 
 Twitter : @zhuboluchuan
